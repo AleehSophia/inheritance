@@ -24,7 +24,7 @@ Only for study and practice purposes.
 ### :sparkles: Inheritance
 In inheritance I've learned the advantages to use and how. <br>
 
-**The model implemented:** 
+**The model implemented:** <br>
 ![inheritance.png](assets/inheritance.png)
 
 ### :sparkles: Upcasting and Downcasting
