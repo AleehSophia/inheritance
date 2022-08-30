@@ -18,3 +18,31 @@ works. <br>
 It's important for you to know that this repository have subjects
 from a series of classes, this is why I have a lot of code commented.
 Only for study and practice purposes.
+
+## :balloon: Repository content :balloon:
+
+### :sparkles: Inheritance
+In inheritance I've learned the advantages to use and how. <br>
+
+**The model implemented:** 
+![inheritance.png](assets/inheritance.png)
+
+### :sparkles: Upcasting and Downcasting
+:magic_wand: **Upcasting:** <br> 
+**Common use:** Polymorphism. <br>
+It's a casting of subclass to superclass
+
+:magic_wand: **Downcasting:** <br>
+**Common use:** Methods that receive generics parameters.<br>
+It's a casting of superclass to subclass. <br>
+You have to use the key ``instanceof`` <br>
+
+**The model implemented:** <br>
+![up-down-casting.png](assets/up-down-casting.png)
+
+### :sparkles: Abstraction
+Can't be instantiated.
+Way to guarantee full inheritance. 
+
+**The model implemented:** <br>
+![abstraction.png](assets/abstraction.png)
