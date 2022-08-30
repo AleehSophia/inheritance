@@ -22,7 +22,7 @@ public class Program {
         BusinessAccount(subclass) for the compiler have the knowledge. It can't be done directly
         from a Superclass. */
 
-        BusinessAccount acc4 = (BusinessAccount) acc2; // Downcasting
+        BusinessAccount acc4 = (BusinessAccount) acc2; /* Downcasting */
         acc4.loan(100.0);
 
         // BusinessAccount acc5 = (BusinessAccount) acc3; This doesn't compile because acc3 is an Account.
@@ -41,7 +41,7 @@ public class Program {
             System.out.println("Update!");
         }
 
-        // Sobreposição
+        /* Sobreposição */
         Account account1 = new Account(1001, "Alex", 1000.0);
         account1.withdraw(200.0);
         System.out.println(account1.getBalance());
