@@ -12,7 +12,7 @@ Everytime you see a code commented between
 ``` /* text */ ``` means an explanation to some piece of code
 or to the subject that I've learned, it's for me to remember.
 <br> When you see a code commented in this way, 
-`` \\ code `` it's a piece of code that I commented because 
+`` // code `` it's a piece of code that I commented because 
 I'm not using it anymore, but I want in there to know how it 
 works. <br>
 It's important for you to know that this repository have subjects
