@@ -59,6 +59,9 @@ public class Program {
 
         /* ABSTRACTION */
 
+//        Account acc1 = new Account(1001, "Alex", 1000.0); Can't be instantiated cause Account it's an abstratic class.
+        Account acc2 = new SavingsAccount(1002, "Maria", 1000.0, 0.1);
+        Account acc3 = new BusinessAccount(1003, "Bob", 1000.0, 500.0);
 
     }
 }
